@@ -1,4 +1,5 @@
 # To understanding for loop we need learn basic in python first 
+# THIS WAS CREATED BY angelandidkw 
 
 # Example 1
 
@@ -115,3 +116,4 @@
 # If you have any question please look up in youtube for in loops 
 # To better understand the lesson
 # Thank you this is end 
+# THIS WAS CREATED BY angelandidkw 
